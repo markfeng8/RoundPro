@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RoundProView">
+        <attr name="txtsize" format="dimension"></attr>
+        <attr name="txtcolor" format="color"></attr>
+        <attr name="rbColor" format="color"></attr>
+        <attr name="rpColor" format="color"></attr>
+        <attr name="roundWidth" format="float"></attr>
+    </declare-styleable>
+</resources>
